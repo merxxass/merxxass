@@ -1,4 +1,4 @@
-[![MasterHead](https://tr.pinterest.com/pin/377950593740113455/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+CyberSecurity+]-)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm merxas</h1>
 <h3 align="center">Siber Güvenlik Araştırmacısı 🇹🇷</h3>
