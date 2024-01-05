@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4001&pause=1001&color=45F700&center=true&vcenter=true&width=531&lines=CyberSecurityResearcher🇹🇷)
 
-![Uploading 1704485696232.gif…]()
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merxxass&label=Profile%20views&color=0e75b6&style=flat" alt="merxxass" /> </p>
