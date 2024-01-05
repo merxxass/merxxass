@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4001&pause=1001&color=45F700&center=true&vcenter=true&width=531&lines=CyberSecurityResearcher🇹🇷)
-
+![1704485696232](https://github.com/merxxass/merxxass/assets/55262710/08aa3c01-f804-4c03-985a-b8eca4e6e5b5)![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4001&pause=1001&color=45F700&center=true&vcenter=true&width=531&lines=CyberSecurityResearcher🇹🇷)
+<img align="right" alt="Coding" width="400" src="![Uploading 1704485696232.gif…]()">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merxxass&label=Profile%20views&color=0e75b6&style=flat" alt="merxxass" /> </p>
